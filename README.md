@@ -11,4 +11,3 @@ other messaging apps, and a widget that displays the user's business information
 customized layout.
 
 ![Business card](https://user-images.githubusercontent.com/111459969/235497272-dce49b42-d966-4b68-ac3e-a1a7eee33f2a.png)
-![diceee](https://user-images.githubusercontent.com/111459969/235497278-8770d5c9-ff3e-412a-b6a4-79e353ee36b6.png)
